@@ -14,6 +14,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
   background-repeat:no-repeat;
   background-attachment:fixed;
 }
-li{
-  color:white;
+section{
+  width: 48%;
+  display: inline-block;
+  border: 1px dotted orange;
+  vertical-align: top;
+}
+
+#migos{
+  color: gold
 }
