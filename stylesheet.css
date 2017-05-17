@@ -17,7 +17,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', end
 section{
   width: 48%;
   display: inline-block;
-  border: 1px dotted orange;
   vertical-align: top;
 }
 
